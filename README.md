@@ -36,3 +36,6 @@ A Python application that evaluates password strength based on security best pra
 
 ## Why I Built This
 To demonstrate automation scripting and security-focused programming concepts.
+
+## Live Demo
+Try my Python Password Strength Checker online: [Click here to test it](https://password-analyzer--kojoa82.replit.app)
