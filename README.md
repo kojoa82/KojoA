@@ -1,7 +1,7 @@
 # # Hi, I'm Kojo 👋
 
 ## 🚀 About Me
-- AI-900 Certified
+- AI-900/AZ-900 Certified
 - Building Cloud & AI projects with Python
 - Interested in Azure & automation
 
